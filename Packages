@@ -1,0 +1,14 @@
+Package: com.jake.retrodial
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Your Name <your@email.com>
+Depends: mobilesubstrate
+Filename: ./RetroDial-main-2.deb
+Size: 3752
+MD5sum: 19b9f6d226b3de9fdae4008abe3af7bb
+SHA1: 2ae92a7b258fa7d394259ed25e37e0935c7a709e
+SHA256: 88e96e94109207ec4bcd7a7468e188030d86900beba8c91e53e71b2e0658e35a
+Description: A description of your tweak
+Author: Jake Jacobhorvitz3@gmail.com
+Name: MyTweak
+
