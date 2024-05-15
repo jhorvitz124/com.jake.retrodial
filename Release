@@ -1,9 +1,9 @@
 Origin: RetroDial
-Label: MyRepo
+Label: RetroDial
 Suite: stable
 Version: 1.0
 Codename: ios
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm iphoneos-arm64
 Components: main
-Description: MyRepo Cydia repository
+Description: change your phone to an older style.
 
